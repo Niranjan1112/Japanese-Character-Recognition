@@ -1,2 +1,2 @@
-# Japanese-letter-recognition
+# Japanese-Character-Recognition (hiragana and katakana)
 As for all handwriting recognition problems, handwritten Japanese character recognition is difficult due to the wide variability of writing styles and the confusion between similar characters. Also, for Chinese and Japanese characters, the large number of characters (classes) poses a challenge in efficient classification. Also Japanese characters have more complex understanding since it has more strokes in letters/characters than other western languages. In this project, deep convolutional neural networks are used for recognizing handwritten Japanese characters : hiragana, katakana.
